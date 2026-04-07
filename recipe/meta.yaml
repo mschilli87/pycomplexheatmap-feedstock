@@ -1,4 +1,4 @@
-{% set version = "1.8.4" %}
+{% set version = "1.8.5" %}
 
 package:
   name: pycomplexheatmap
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/P/PyComplexHeatmap/pycomplexheatmap-{{ version }}.tar.gz
-  sha256: 6799d45e6ee44f0c74be0123645ce9dba779b8f39226d9f50409fde167fd0ec1
+  sha256: 7195aea48d41c2001f641bef52e060eaf98cd3605f9b00aeda0494058400d452
 
 build:
   noarch: python
